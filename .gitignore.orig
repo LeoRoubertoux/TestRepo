@@ -1,0 +1,8 @@
+/.vs
+/windows media player/bin/
+/windows media player/obj/Debug/
+/windows media player/obj/
+<<<<<<< HEAD
+/.sonarqube/*
+=======
+>>>>>>> 9f7959bbdd7c22797c2b79b9081737d52ce246bb
