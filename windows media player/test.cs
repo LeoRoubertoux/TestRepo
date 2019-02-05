@@ -12,9 +12,15 @@ namespace windows_media_player
         private int count2 = 1;
         private int count3;
 
-        public void addCount()
+        public int addCount()
         {
-            count3 = count + count2;
+            return tempCount();
+        }
+
+        private int tempCount()
+        {
+            return (count + count2);
+
         }
     }
 }
