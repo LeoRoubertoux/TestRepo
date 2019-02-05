@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace windows_media_player
 {
-    class test
+    public class test
     {
         private int count = 0;
         private int count2 = 1;

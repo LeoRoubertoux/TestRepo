@@ -1,0 +1,18 @@
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\ClassLibraryTest.deps.json
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\ClassLibraryTest.runtimeconfig.json
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\ClassLibraryTest.runtimeconfig.dev.json
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\ClassLibraryTest.dll
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\ClassLibraryTest.pdb
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\windows media player.exe
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\windows media player.pdb
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\bin\Debug\netcoreapp2.1\windows media player.exe.config
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.csprojAssemblyReference.cache
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.AssemblyInfo.cs
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.csproj.CopyComplete
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.dll
+C:\Users\Léo\Documents\Workplace\POC\TestRepo\ClassLibraryTest\obj\Debug\netcoreapp2.1\ClassLibraryTest.pdb
