@@ -3,3 +3,27 @@
 /windows media player/obj/Debug/
 /windows media player/obj/
 /.sonarqube/*
+/.axoCover*
+/ClassLibraryTest/obj/Debug/*
+/UnitTestProject1/bin/Debug/*
+/ClassLibraryTest/bin/Debug/*
+/packages/*
+/UnitTestProject1/obj/*
+/ClassLibraryTest/bin/Debug/*
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/ClassLibraryTest.dll
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/ClassLibraryTest.pdb
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/ClassLibraryTest.runtimeconfig.dev.json
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/ClassLibraryTest.runtimeconfig.json
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/windows media player.exe
+/ClassLibraryTest/bin/Debug/netcoreapp2.1/windows media player.pdb
+/ClassLibraryTest/obj/ClassLibraryTest.csproj.nuget.cache
+/ClassLibraryTest/obj/ClassLibraryTest.csproj.nuget.g.props
+/ClassLibraryTest/obj/ClassLibraryTest.csproj.nuget.g.targets
+/ClassLibraryTest/obj/Debug/netcoreapp2.1/ClassLibraryTest.assets.cache
+/ClassLibraryTest/obj/Debug/netcoreapp2.1/ClassLibraryTest.csproj.CoreCompileInputs.cache
+/ClassLibraryTest/obj/Debug/netcoreapp2.1/ClassLibraryTest.csproj.FileListAbsolute.txt
+/ClassLibraryTest/obj/Debug/netcoreapp2.1/ClassLibraryTest.csprojAssemblyReference.cache
+/ClassLibraryTest/obj/Debug/netcoreapp2.1/ClassLibraryTest.dll
+/ClassLibraryTest/obj/Debug/netcoreapp2.1/ClassLibraryTest.pdb
+/ClassLibraryTest/obj/project.assets.json
