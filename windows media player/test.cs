@@ -25,7 +25,7 @@ namespace windows_media_player
 
         private void unusedStuff()
         {
-
+            char c = 'c';
         }
     }
 }
