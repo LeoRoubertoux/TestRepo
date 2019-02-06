@@ -22,5 +22,10 @@ namespace windows_media_player
             return (count + count2);
 
         }
+
+        private void unusedStuff()
+        {
+
+        }
     }
 }
