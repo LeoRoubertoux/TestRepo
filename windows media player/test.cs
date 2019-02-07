@@ -23,9 +23,12 @@ namespace windows_media_player
 
         }
 
-        private void unusedStuff()
+        public void unusedStuff()
         {
-            char c = 'c';
+            string c = "c";
+
+            c += "temp";
+
         }
     }
 }

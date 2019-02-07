@@ -18,7 +18,9 @@ namespace windows_media_player
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            var temp = new test().addCount();
+            test Test = new test();
+            var temp = Test.addCount();
+            Test.unusedStuff();
         }
     }
 }
